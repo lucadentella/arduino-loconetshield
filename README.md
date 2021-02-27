@@ -9,7 +9,7 @@ Disponibile sia come shield per Arduino che come modulo stand-alone.*
 
 In the Arduino folder, some basic sketches are provided to demonstrate the use of the interface. The [mrrwa/LocoNet](https://github.com/mrrwa/LocoNet) library is required (can be installed via Library Manager).
 
-*Nella cartella Arduino, sono disponibili alcuni semplici sketch per dimostrare il funzionamento della interfaccia. E' richiesta la libreria[mrrwa/LocoNet](https://github.com/mrrwa/LocoNet) library is required (può essere installata da Library Manager).*
+*Nella cartella Arduino, sono disponibili alcuni semplici sketch per dimostrare il funzionamento della interfaccia. E' richiesta la libreria [mrrwa/LocoNet](https://github.com/mrrwa/LocoNet) (può essere installata da Library Manager).*
 
 ## Documentation
 - [Tutorial in  **English**](https://youtu.be/aA6cgGWZWBE)  (Youtube)
