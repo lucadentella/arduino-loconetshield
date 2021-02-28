@@ -13,5 +13,5 @@ In the Arduino folder, some basic sketches are provided to demonstrate the use o
 *Nella cartella Arduino, sono disponibili alcuni semplici sketch per dimostrare il funzionamento della interfaccia. E' richiesta la libreria [mrrwa/LocoNet](https://github.com/mrrwa/LocoNet) (può essere installata da Library Manager).*
 
 ## Documentation
-- [Tutorial in  **English**](https://youtu.be/aA6cgGWZWBE)  (Youtube)
-- [Tutorial in  **Italiano**](https://youtu.be/_3cTWvrFvNA)  (Youtube)
+- [Tutorial in  **English**](https://youtu.be/1dmCtpfb8J8)  (Youtube)
+- [Tutorial in  **Italiano**](https://youtu.be/ZZcOnpj0lzU)  (Youtube)
