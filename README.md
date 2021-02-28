@@ -14,4 +14,4 @@ In the Arduino folder, some basic sketches are provided to demonstrate the use o
 
 ## Documentation
 - [Tutorial in  **English**](https://youtu.be/1dmCtpfb8J8)  (Youtube)
-- [Tutorial in  **Italiano**](https://youtu.be/ZZcOnpj0lzU)  (Youtube)
+- [Tutorial in  **Italiano**](https://youtu.be/m1i-pzcgra8)  (Youtube)
