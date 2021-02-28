@@ -1,4 +1,5 @@
 # Loconet Shield / Interface
+![](https://github.com/lucadentella/arduino-loconetshield/raw/main/images/boards.jpg)
 ## Description
 Interface to connect a 5V microcontroller to the Loconet bus.
 Available as an Arduino shield or a stand-alone module.
