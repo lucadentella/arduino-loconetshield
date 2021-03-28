@@ -23,7 +23,7 @@ void loop() {
 }
 
 void notifyPower(uint8_t State) {
-
+  Serial.println("notifyPower");
     if(State == 1) digitalWrite(LED_PIN, HIGH);
     else digitalWrite(LED_PIN, LOW);
 }
